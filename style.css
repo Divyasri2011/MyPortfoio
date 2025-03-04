@@ -203,6 +203,9 @@ a:hover{
         height: auto;
         width: auto;
     }
+    .education{
+        width: 100%;
+    }
  /* .links_sideBar{
         display: none;
     } */
