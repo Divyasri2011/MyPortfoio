@@ -167,10 +167,14 @@ a:hover{
         font-size: 20px;
     }
     .education_box{
-        width: 450px;
+        width: 90%;
+        max-width: 450px;
         margin-bottom: 10px;
         word-wrap: break-word;
-        margin-bottom: 10px;
+        overflow-wrap: break-word;
+        padding: 10px;
+        box-sizing: border-box;
+        
     }
     .home_img img{
         width: 350px;
