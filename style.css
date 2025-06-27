@@ -169,6 +169,8 @@ a:hover{
     .education_box{
         width: 450px;
         margin-bottom: 10px;
+        word-wrap: break-word;
+        margin-bottom: 10px;
     }
     .home_img img{
         width: 350px;
@@ -205,8 +207,6 @@ a:hover{
     }
     .education{
         width: 100%;
-        padding: 0.8rem;
-        font-size: 14px;
 
     }
  /* .links_sideBar{
