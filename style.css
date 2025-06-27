@@ -205,6 +205,9 @@ a:hover{
     }
     .education{
         width: 100%;
+        padding: 0.8rem;
+        font-size: 14px;
+
     }
  /* .links_sideBar{
         display: none;
